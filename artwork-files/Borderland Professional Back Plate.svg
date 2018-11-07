@@ -420,6 +420,38 @@
          style="stroke:#000000;fill:none"
          d="M 1293.342075,1901.590277 A 24.960000,24.960000 -0.000000 0 0 1336.542075,1901.590277" />
     </symbol>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4497">
+      <path
+         d="m 0,0 7115,0 0,11518 L 0,11518 0,0"
+         id="path4499"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4713">
+      <path
+         d="m 0,0 7115,0 0,11518 L 0,11518 0,0"
+         id="path4715"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4428">
+      <path
+         d="m 0,0 7197,0 0,11518 L 0,11518 0,0"
+         id="path4430"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4608">
+      <path
+         d="m 0,0 7197,0 0,11518 L 0,11518 0,0"
+         id="path4610"
+         inkscape:connector-curvature="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -428,11 +460,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.6878906"
-     inkscape:cx="466.52568"
-     inkscape:cy="103.36595"
+     inkscape:zoom="0.95031284"
+     inkscape:cx="1358.543"
+     inkscape:cy="233.25103"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5365"
+     inkscape:current-layer="layer1-0"
      showgrid="false"
      units="in"
      inkscape:showpageshadow="false"
@@ -579,27 +611,27 @@
          inkscape:connector-curvature="0" />
       <path
          id="path5327"
-         style="fill:none;stroke:#000000"
+         style="fill:#000000;stroke:#000000;fill-opacity:1"
          d="m 973.35806,-733.14311 a 3.84,3.84 0 1 1 -7.68,0 3.84,3.84 0 1 1 7.68,0 z"
          inkscape:connector-curvature="0" />
       <path
          id="path5329"
-         style="fill:none;stroke:#000000"
+         style="fill:#000000;stroke:#000000;fill-opacity:1"
          d="m 1117.3581,-733.14311 a 3.84,3.84 0 1 1 -7.68,0 3.84,3.84 0 1 1 7.68,0 z"
          inkscape:connector-curvature="0" />
       <path
          id="path5331"
-         style="fill:none;stroke:#000000"
+         style="fill:#000000;stroke:#000000;fill-opacity:1"
          d="m 994.44637,-784.0548 a 3.84,3.84 0 1 1 -7.68,0 3.84,3.84 0 1 1 7.68,0 z"
          inkscape:connector-curvature="0" />
       <path
          id="path5333"
-         style="fill:none;stroke:#000000"
+         style="fill:#000000;stroke:#000000;fill-opacity:1"
          d="m 1045.3581,-805.14311 a 3.84,3.84 0 1 1 -7.68,0 3.84,3.84 0 1 1 7.68,0 z"
          inkscape:connector-curvature="0" />
       <path
          id="path5335"
-         style="fill:none;stroke:#000000"
+         style="fill:#000000;stroke:#000000;fill-opacity:1"
          d="m 1096.2697,-784.0548 a 3.84,3.84 0 1 1 -7.68,0 3.84,3.84 0 1 1 7.68,0 z"
          inkscape:connector-curvature="0" />
       <path
@@ -678,6 +710,531 @@
          style="fill:none;stroke:#000000"
          d="m 2733.4339,-733.14307 a 12.096,12.096 0 1 1 -24.192,0 12.096,12.096 0 1 1 24.192,0 z"
          inkscape:connector-curvature="0" />
+      <g
+         id="g6528"
+         transform="matrix(1.0666667,0,0,1.0666667,706.479,-1076.3531)">
+        <g
+           inkscape:label="Layer 2"
+           id="layer2">
+          <g
+             id="g4709"
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             transform="matrix(0,-0.27050562,-0.27060387,0,2678.1665,859.39635)">
+            <g
+               clip-path="url(#clipPath4713)"
+               id="g4711"
+               style="fill:#000000;fill-opacity:1;stroke:none">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4717"
+                 style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 3177,9897 V 2002" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4719"
+                 style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 2465,1998 V 9893" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4861"
+                 style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 2640,9220 h 362" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4869"
+                 style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 2640,9220 v 260" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path5005"
+                 style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 3177,9897 -712,-4" />
+              <g
+                 transform="rotate(-90,4572.5,1575)"
+                 id="g5035"
+                 style="fill:#000000;fill-opacity:1;stroke:none" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect5374"
+                 width="54.127876"
+                 height="9.3357811"
+                 x="-8405.4775"
+                 y="-1754.1759"
+                 transform="matrix(0,-1,-1,0,0,0)"
+                 inkscape:transform-center-y="-0.55683419" />
+              <rect
+                 transform="matrix(0,-1,-1,0,0,0)"
+                 y="-1750.5289"
+                 x="-9118.4277"
+                 height="9.3357811"
+                 width="54.127876"
+                 id="rect5376"
+                 style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+              <g
+                 transform="matrix(1.1483871,0,0,1.1477768,-594.3033,-1886.0769)"
+                 inkscape:label="Bomba Backplate CAD"
+                 id="g4602"
+                 style="fill:#000000;fill-opacity:1;stroke:none">
+                <g
+                   id="g4604"
+                   style="fill:#000000;fill-opacity:1;stroke:none" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="translate(0,-859.76215)"
+           id="layer1-0"
+           inkscape:label="Layer 1">
+          <text
+             id="text5796"
+             y="1281.3248"
+             x="1977.0408"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
+               y="1281.3248"
+               x="1977.0408"
+               id="tspan5798"
+               sodipodi:role="line">REVERB</tspan></text>
+          <text
+             id="text5872"
+             y="1130.2662"
+             x="842.12848"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
+               y="1130.2662"
+               x="842.12848"
+               sodipodi:role="line"
+               id="tspan5874">8</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="890.88281"
+             y="1110.1534"
+             id="text5876"><tspan
+               id="tspan5878"
+               sodipodi:role="line"
+               x="890.88281"
+               y="1110.1534"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">16</tspan></text>
+          <text
+             id="text5880"
+             y="1130.9805"
+             x="937.21735"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
+               y="1130.9805"
+               x="937.21735"
+               sodipodi:role="line"
+               id="tspan5882">32</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="845.21307"
+             y="1230.0043"
+             id="text5884"><tspan
+               id="tspan5886"
+               sodipodi:role="line"
+               x="845.21307"
+               y="1230.0043"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">IMPEDANCE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="448.69266"
+             y="1116.3259"
+             id="text5916"><tspan
+               id="tspan5918"
+               sodipodi:role="line"
+               x="448.69266"
+               y="1116.3259"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;text-anchor:middle">2 AMP</tspan><tspan
+               id="tspan5920"
+               sodipodi:role="line"
+               x="448.69266"
+               y="1138.2009"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;text-anchor:middle">SLO-BLO</tspan></text>
+          <text
+             id="text5926"
+             y="1176.5905"
+             x="232.17911"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
+               y="1176.5905"
+               x="232.17911"
+               sodipodi:role="line"
+               id="tspan5928">100</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="252.24203"
+             y="1127.093"
+             id="text5930"><tspan
+               id="tspan5932"
+               sodipodi:role="line"
+               x="252.24203"
+               y="1127.093"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">120</tspan></text>
+          <text
+             id="text5934"
+             y="1106.9103"
+             x="296.29346"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
+               y="1106.9103"
+               x="296.29346"
+               sodipodi:role="line"
+               id="tspan5936">220</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="344.05402"
+             y="1127.093"
+             id="text5938"><tspan
+               id="tspan5940"
+               sodipodi:role="line"
+               x="344.05402"
+               y="1127.093"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">230</tspan></text>
+          <text
+             id="text5942"
+             y="1176.5905"
+             x="363.39182"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
+               y="1176.5905"
+               x="363.39182"
+               sodipodi:role="line"
+               id="tspan5944">240</tspan></text>
+          <text
+             id="text5946"
+             y="1253.4095"
+             x="313.94699"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;letter-spacing:8.02999973px;text-anchor:middle"
+               y="1253.4095"
+               x="317.96198"
+               sodipodi:role="line"
+               id="tspan5948">WARNING</tspan><tspan
+               id="tspan5952"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;text-anchor:middle"
+               y="1276.2771"
+               x="313.94699"
+               sodipodi:role="line">PRE-SET VOLTAGE</tspan><tspan
+               id="tspan5950"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;text-anchor:middle"
+               y="1298.1521"
+               x="316.88644"
+               sodipodi:role="line"> </tspan></text>
+          <text
+             id="text5370"
+             y="1013.4713"
+             x="381.33258"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-size:13.75px;line-height:1.25"
+               y="1013.4713"
+               x="381.33258"
+               id="tspan5372"
+               sodipodi:role="line"> </tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="619.38672"
+             y="1157.3934"
+             id="text5122"><tspan
+               id="tspan5124"
+               sodipodi:role="line"
+               x="619.38672"
+               y="1157.3934"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">A</tspan></text>
+          <text
+             id="text5126"
+             y="1214.4467"
+             x="605.29065"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
+               y="1214.4467"
+               x="605.29065"
+               sodipodi:role="line"
+               id="tspan5128">COM</tspan></text>
+          <text
+             id="text5130"
+             y="1103.7612"
+             x="599.35138"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
+               y="1103.7612"
+               x="599.35138"
+               sodipodi:role="line"
+               id="tspan5132">BIAS</tspan></text>
+          <text
+             id="text5134"
+             y="1272.0051"
+             x="619.66547"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
+               y="1272.0051"
+               x="619.66547"
+               sodipodi:role="line"
+               id="tspan5136">B</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="1726.4988"
+             y="1281.3248"
+             id="text6532"><tspan
+               sodipodi:role="line"
+               id="tspan6530"
+               x="1726.4988"
+               y="1281.3248"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">GAIN</tspan></text>
+          <text
+             id="text6536"
+             y="1281.3248"
+             x="1591.7052"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
+               y="1281.3248"
+               x="1591.7052"
+               id="tspan6534"
+               sodipodi:role="line">LOW</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="1457.4773"
+             y="1281.3248"
+             id="text6540"><tspan
+               sodipodi:role="line"
+               id="tspan6538"
+               x="1457.4773"
+               y="1281.3248"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">HIGH</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="1846.4279"
+             y="1281.3248"
+             id="text6544"><tspan
+               sodipodi:role="line"
+               id="tspan6542"
+               x="1846.4279"
+               y="1281.3248"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">BRIGHT</tspan></text>
+          <text
+             id="text6548"
+             y="1281.3248"
+             x="1302.3949"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="1281.3248"
+               x="1302.3949"
+               id="tspan6546"
+               sodipodi:role="line">OUTPUT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="1302.3949"
+             y="1093.8248"
+             id="text6554"><tspan
+               sodipodi:role="line"
+               id="tspan6552"
+               x="1302.3949"
+               y="1093.8248"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">BYPASS</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="1311.3492"
+             y="1187.209"
+             id="text6558"><tspan
+               sodipodi:role="line"
+               id="tspan6556"
+               x="1311.3492"
+               y="1187.209"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">REVERB</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="1047.7589"
+             y="1270.9901"
+             id="text6801"><tspan
+               sodipodi:role="line"
+               id="tspan6799"
+               x="1047.7589"
+               y="1274.4381"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+               sodipodi:role="line"
+               x="1047.7589"
+               y="1286.9839"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               id="tspan6803">OUTPUT</tspan></text>
+          <text
+             id="text6809"
+             y="1254.1151"
+             x="1047.7589"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="1257.5631"
+               x="1047.7589"
+               id="tspan6805"
+               sodipodi:role="line" /><tspan
+               id="tspan6807"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="1270.1089"
+               x="1047.7589"
+               sodipodi:role="line">PREAMP</tspan></text>
+          <text
+             id="text6815"
+             y="1083.4901"
+             x="1063.2657"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="1086.9381"
+               x="1063.2657"
+               id="tspan6811"
+               sodipodi:role="line" /><tspan
+               id="tspan6813"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="1099.4839"
+               x="1063.2657"
+               sodipodi:role="line">INPUT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="1072.7035"
+             y="1066.6151"
+             id="text6821"><tspan
+               sodipodi:role="line"
+               id="tspan6817"
+               x="1072.7035"
+               y="1070.0631"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+               sodipodi:role="line"
+               x="1072.7035"
+               y="1082.6089"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               id="tspan6819">AMP</tspan></text>
+          <text
+             id="text6825"
+             y="1187.209"
+             x="1054.5078"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="1187.209"
+               x="1054.5078"
+               id="tspan6823"
+               sodipodi:role="line">FX LOOP</tspan></text>
+          <text
+             id="text6829"
+             y="1232.5513"
+             x="1179.9993"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="1232.5513"
+               x="1179.9993"
+               id="tspan6827"
+               sodipodi:role="line">FSWTCH</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="959.99866"
+             y="1160.7012"
+             id="text6833"><tspan
+               sodipodi:role="line"
+               id="tspan6831"
+               x="959.99866"
+               y="1160.7012"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">GNFB</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="765.26373"
+             y="1093.6776"
+             id="text6837"><tspan
+               sodipodi:role="line"
+               id="tspan6835"
+               x="765.26373"
+               y="1093.6776"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">SPEAKER</tspan><tspan
+               sodipodi:role="line"
+               x="765.26373"
+               y="1117.1151"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+               id="tspan6839">OUTPUT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="526.25641"
+             y="1145.387"
+             id="text6843"><tspan
+               id="tspan6841"
+               sodipodi:role="line"
+               x="526.25641"
+               y="1145.387"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">BIAS</tspan></text>
+          <text
+             id="text6847"
+             y="1229.0958"
+             x="510.24265"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
+               y="1229.0958"
+               x="510.24265"
+               sodipodi:role="line"
+               id="tspan6845">ADJUST</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="718.70538"
+             y="1232.5513"
+             id="text6851"><tspan
+               sodipodi:role="line"
+               id="tspan6849"
+               x="718.70538"
+               y="1232.5513"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">1</tspan></text>
+          <text
+             id="text6855"
+             y="1231.1561"
+             x="803.35223"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="1231.1561"
+               x="803.35223"
+               id="tspan6853"
+               sodipodi:role="line">2</tspan></text>
+          <text
+             id="text6859"
+             y="1093.8248"
+             x="1645.5067"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="1093.8248"
+               x="1645.5067"
+               id="tspan6857"
+               sodipodi:role="line">FILTER</tspan></text>
+        </g>
+      </g>
     </g>
   </g>
 </svg>
