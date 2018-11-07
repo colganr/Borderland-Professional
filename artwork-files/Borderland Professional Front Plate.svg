@@ -106,6 +106,22 @@
          d="m 952.91487,887.4962 v 3.84"
          inkscape:connector-curvature="0" />
     </symbol>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4169">
+      <path
+         d="m 0,0 7197,0 0,11518 L 0,11518 0,0"
+         id="path4171"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5508">
+      <path
+         d="m 0,0 7197,0 0,11518 L 0,11518 0,0"
+         id="path5510"
+         inkscape:connector-curvature="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -125,8 +141,8 @@
      showborder="true"
      inkscape:window-width="2630"
      inkscape:window-height="1337"
-     inkscape:window-x="449"
-     inkscape:window-y="127"
+     inkscape:window-x="138"
+     inkscape:window-y="83"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
