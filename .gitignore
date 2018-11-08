@@ -3,3 +3,5 @@
 .DS_Store
 *.dwl
 *.dwl2
+*.lck
+inventor-files/OldVersions/main chassis.0002.ipt
