@@ -652,9 +652,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.95031283"
+     inkscape:zoom="1.9006257"
      inkscape:cx="1132.6327"
-     inkscape:cy="1.150055"
+     inkscape:cy="64.287159"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -664,7 +664,9 @@
      inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:measure-start="1005.98,122.065"
+     inkscape:measure-end="1102.27,116.277" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -1489,16 +1491,16 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="237.31943"
-       y="238.03172"
+       y="241.19711"
        id="text1457"><tspan
          sodipodi:role="line"
          id="tspan1455"
          x="237.31943"
-         y="238.03172"
+         y="241.19711"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px">SPEAKER</tspan><tspan
          sodipodi:role="line"
          x="237.31943"
-         y="240.44415"
+         y="243.60954"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px"
          id="tspan1459" /></text>
     <text
@@ -1512,5 +1514,16 @@
          x="569.4491"
          id="tspan1132"
          sodipodi:role="line">REVERB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="310.03503"
+       y="267.55219"
+       id="text1125"><tspan
+         sodipodi:role="line"
+         id="tspan1123"
+         x="310.03503"
+         y="267.55219"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28222224px">FX LOOP</tspan></text>
   </g>
 </svg>
