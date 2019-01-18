@@ -652,9 +652,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.47515642"
-     inkscape:cx="1400.6344"
-     inkscape:cy="198.38138"
+     inkscape:zoom="0.67197265"
+     inkscape:cx="748.10328"
+     inkscape:cy="257.90761"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1-0"
      showgrid="false"
@@ -759,31 +759,6 @@
          id="path1325"
          style="fill:none;stroke:#000000"
          d="m 1772.2305,-744.78421 a 12.096,12.096 0 1 0 -24.192,0 12.096,12.096 0 1 0 24.192,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path1327"
-         style="fill:none;stroke:#000000"
-         d="m 972.75459,-744.6441 a 3.84,3.84 0 1 0 -7.68,0 3.84,3.84 0 1 0 7.68,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path1329"
-         style="fill:none;stroke:#000000"
-         d="m 1116.7546,-744.6441 a 3.84,3.84 0 1 0 -7.68,0 3.84,3.84 0 1 0 7.68,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path1331"
-         style="fill:none;stroke:#000000"
-         d="m 993.8429,-693.73241 a 3.84,3.84 0 1 0 -7.67999,0 3.84,3.84 0 1 0 7.67999,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path1333"
-         style="fill:none;stroke:#000000"
-         d="m 1044.7546,-672.6441 a 3.84,3.84 0 1 0 -7.68,0 3.84,3.84 0 1 0 7.68,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path1335"
-         style="fill:none;stroke:#000000"
-         d="m 1095.6663,-693.73241 a 3.84,3.84 0 1 0 -7.68,0 3.84,3.84 0 1 0 7.68,0 z"
          inkscape:connector-curvature="0" />
       <path
          id="path1337"
@@ -985,16 +960,6 @@
          id="path5325"
          style="fill:none;stroke:#000000"
          d="m 660.00149,-617.14463 1.20693,-239.99696"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path5327"
-         style="fill:#000000;fill-opacity:1;stroke:#000000"
-         d="m 973.35806,-733.14311 a 3.84,3.84 0 1 1 -7.68,0 3.84,3.84 0 1 1 7.68,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path5329"
-         style="fill:#000000;fill-opacity:1;stroke:#000000"
-         d="m 1117.3581,-733.14311 a 3.84,3.84 0 1 1 -7.68,0 3.84,3.84 0 1 1 7.68,0 z"
          inkscape:connector-curvature="0" />
       <path
          id="path5331"
@@ -1210,17 +1175,6 @@
                y="1138.2009"
                style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;text-anchor:middle">SLO-BLO</tspan></text>
           <text
-             id="text5926"
-             y="1176.5905"
-             x="232.17911"
-             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
-               y="1176.5905"
-               x="232.17911"
-               sodipodi:role="line"
-               id="tspan5928">100</tspan></text>
-          <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="252.24203"
@@ -1230,7 +1184,7 @@
                sodipodi:role="line"
                x="252.24203"
                y="1127.093"
-               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">120</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">220</tspan></text>
           <text
              id="text5934"
              y="1106.9103"
@@ -1241,7 +1195,7 @@
                y="1106.9103"
                x="296.29346"
                sodipodi:role="line"
-               id="tspan5936">220</tspan></text>
+               id="tspan5936">230</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1252,18 +1206,7 @@
                sodipodi:role="line"
                x="344.05402"
                y="1127.093"
-               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">230</tspan></text>
-          <text
-             id="text5942"
-             y="1176.5905"
-             x="363.39182"
-             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'"
-               y="1176.5905"
-               x="363.39182"
-               sodipodi:role="line"
-               id="tspan5944">240</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">240</tspan></text>
           <text
              id="text5946"
              y="1253.4095"
@@ -1555,23 +1498,23 @@
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             x="741.20538"
-             y="1232.5513"
+             x="792.82581"
+             y="1271.6154"
              id="text6851"><tspan
                sodipodi:role="line"
                id="tspan6849"
-               x="741.20538"
-               y="1232.5513"
+               x="792.82581"
+               y="1271.6154"
                style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">1</tspan></text>
           <text
              id="text6855"
-             y="1137.6814"
-             x="735.85223"
+             y="1180.9309"
+             x="786.55737"
              style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-               y="1137.6814"
-               x="735.85223"
+               y="1180.9309"
+               x="786.55737"
                id="tspan6853"
                sodipodi:role="line">2</tspan></text>
           <text
