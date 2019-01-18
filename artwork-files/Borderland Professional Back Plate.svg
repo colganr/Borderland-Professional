@@ -653,7 +653,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.95031283"
-     inkscape:cx="1272.3186"
+     inkscape:cx="1009.3462"
      inkscape:cy="1.150055"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -1092,14 +1092,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="570.39435"
+       x="570.10242"
        y="294.11377"
        id="text5796"><tspan
          sodipodi:role="line"
          id="tspan5798"
-         x="570.39435"
+         x="570.10242"
          y="294.11377"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';stroke-width:0.28222224px">REVERB</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';stroke-width:0.28222224px">RETURN</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1146,20 +1146,35 @@
          id="tspan5886">IMPEDANCE</tspan></text>
     <text
        id="text5916"
-       y="247.54742"
+       y="244.37247"
        x="139.0605"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
-         y="248.52052"
+         y="245.34557"
          x="139.0605"
          sodipodi:role="line"
          id="tspan5918" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
-         y="251.7603"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         y="245.34557"
          x="139.0605"
          sodipodi:role="line"
-         id="tspan5920">SLO-BLO</tspan></text>
+         id="tspan5920" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         y="245.34557"
+         x="139.0605"
+         sodipodi:role="line"
+         id="tspan1125" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         y="247.96797"
+         x="139.0605"
+         sodipodi:role="line"
+         id="tspan1128">FUSE</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         y="252.90686"
+         x="139.0605"
+         sodipodi:role="line"
+         id="tspan1130">SLO-BLO</tspan></text>
     <text
        id="text5930"
        y="250.58614"
@@ -1250,14 +1265,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="186.34225"
+       x="172.58411"
        y="244.00139"
        id="text5130"><tspan
          id="tspan5132"
          sodipodi:role="line"
-         x="186.34225"
+         x="172.58411"
          y="244.00139"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';stroke-width:0.28222224px">BIAS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.291667px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';stroke-width:0.28222224px">BIAS</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1444,17 +1459,6 @@
          id="tspan6831"
          sodipodi:role="line">GNFB</tspan></text>
     <text
-       id="text6843"
-       y="255.74908"
-       x="165.71323"
-       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';stroke-width:0.28222224px"
-         y="255.74908"
-         x="165.71323"
-         sodipodi:role="line"
-         id="tspan6841">BIAS</tspan></text>
-    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="161.19377"
@@ -1524,5 +1528,16 @@
          y="243.32339"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px"
          id="tspan1459">OUTPUT</tspan></text>
+    <text
+       id="text1134"
+       y="241.19711"
+       x="569.4491"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28222224px"
+         y="241.19711"
+         x="569.4491"
+         id="tspan1132"
+         sodipodi:role="line">REVERB</tspan></text>
   </g>
 </svg>
