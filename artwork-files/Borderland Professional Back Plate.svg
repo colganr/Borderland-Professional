@@ -653,7 +653,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.95031283"
-     inkscape:cx="1009.3462"
+     inkscape:cx="1132.6327"
      inkscape:cy="1.150055"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -1394,48 +1394,26 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28222224px"
          id="tspan6807">PREAMP</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="312.50668"
-       y="238.28043"
-       id="text6815"><tspan
-         sodipodi:role="line"
-         id="tspan6811"
-         x="312.50668"
-         y="239.25352"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28222224px" /><tspan
-         sodipodi:role="line"
-         x="312.50668"
-         y="242.79422"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28222224px"
-         id="tspan6813">INPUT</tspan></text>
-    <text
        id="text6821"
-       y="233.51793"
-       x="315.17023"
+       y="234.04709"
+       x="323.10049"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28222224px"
-         y="234.49103"
-         x="315.17023"
+         y="235.02019"
+         x="323.10049"
          id="tspan6817"
          sodipodi:role="line" /><tspan
          id="tspan6819"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28222224px"
-         y="238.03172"
-         x="315.17023"
-         sodipodi:role="line">AMP</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="310.035"
-       y="267.55219"
-       id="text6825"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px"
+         y="237.89943"
+         x="323.10049"
+         sodipodi:role="line">MAIN AMP</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px"
+         y="243.19109"
+         x="323.10049"
          sodipodi:role="line"
-         id="tspan6823"
-         x="310.035"
-         y="267.55219"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28222224px">FX LOOP</tspan></text>
+         id="tspan1135">INPUT</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1450,12 +1428,12 @@
     <text
        id="text6833"
        y="258.48361"
-       x="283.36243"
+       x="284.94995"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28222224px"
          y="258.48361"
-         x="283.36243"
+         x="284.94995"
          id="tspan6831"
          sodipodi:role="line">GNFB</tspan></text>
     <text
@@ -1471,36 +1449,31 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold';stroke-width:0.28222224px">ADJUST</tspan></text>
     <text
        id="text6851"
-       y="289.2569"
+       y="289.78607"
        x="236.5403"
        style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px"
-         y="289.2569"
-         x="229.46393"
-         id="tspan6849"
-         sodipodi:role="line">INT.</tspan><tspan
          id="tspan1129"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px"
-         y="293.13745"
-         x="229.46393"
-         sodipodi:role="line">SPKR.</tspan></text>
+         y="289.78607"
+         x="236.5403"
+         sodipodi:role="line">MAIN</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px"
+         y="291.95657"
+         x="236.5403"
+         sodipodi:role="line"
+         id="tspan1137" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="236.76649"
-       y="264.00854"
+       y="264.53772"
        id="text6855"><tspan
-         sodipodi:role="line"
-         id="tspan6853"
-         x="236.76649"
-         y="264.00854"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px">EXT.</tspan><tspan
          id="tspan1127"
          sodipodi:role="line"
          x="236.76649"
-         y="267.8891"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px">SPKR.</tspan></text>
+         y="264.53772"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88055563px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px">EXT.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1525,9 +1498,9 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px">SPEAKER</tspan><tspan
          sodipodi:role="line"
          x="237.31943"
-         y="243.32339"
+         y="240.44415"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.29166698px;line-height:1;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.28222224px"
-         id="tspan1459">OUTPUT</tspan></text>
+         id="tspan1459" /></text>
     <text
        id="text1134"
        y="241.19711"
