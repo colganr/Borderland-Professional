@@ -652,9 +652,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9006257"
-     inkscape:cx="1132.6327"
-     inkscape:cy="64.287159"
+     inkscape:zoom="0.58858412"
+     inkscape:cx="1559.1676"
+     inkscape:cy="-9.246776"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -783,14 +783,6 @@
        d="m 176.47306,32.212244 a 4.7625,4.7625 0 1 0 -9.525,0 4.7625,4.7625 0 1 0 9.525,0 z"
        style="fill:none;stroke:#000000;stroke-width:0.26458332"
        id="path1345" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       transform="matrix(0.26458333,0,0,0.26458333,-214.3012,-61.967991)"
-       xlink:href="#IEC-49"
-       id="use1347" />
     <path
        inkscape:connector-curvature="0"
        d="m 363.0967,32.212244 a 4.7625,4.7625 0 1 0 -9.525,0 4.7625,4.7625 0 1 0 9.525,0 z"
@@ -846,14 +838,6 @@
        d="m 241.51235,44.912257 a 4.7625,4.7625 0 1 0 -9.525,0 4.7625,4.7625 0 1 0 9.525,0 z"
        style="fill:none;stroke:#000000;stroke-width:0.26458332"
        id="path1369" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       xlink:href="#31-9"
-       id="use1371"
-       transform="matrix(0.26458333,0,0,0.26458333,-174.26305,229.23266)" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -1525,5 +1509,21 @@
          x="310.03503"
          y="267.55219"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28222224px">FX LOOP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="639.63147"
+       y="267.60025"
+       id="text1128"><tspan
+         sodipodi:role="line"
+         id="tspan1126"
+         x="639.63147"
+         y="267.60025"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:1;font-family:'BD Geminis';-inkscape-font-specification:'BD Geminis Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332">gazzi</tspan><tspan
+         sodipodi:role="line"
+         x="639.63147"
+         y="277.54523"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:1;font-family:'BD Geminis';-inkscape-font-specification:'BD Geminis Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1131">amplification</tspan></text>
   </g>
 </svg>
